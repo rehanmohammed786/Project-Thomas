@@ -11,3 +11,5 @@ Items Required:
 8) Male and Female Jumper wire 
 9) Acrylic Sheet
 10) DC Power Switch 
+
+(This whole project was coded on Arduino IDE)
