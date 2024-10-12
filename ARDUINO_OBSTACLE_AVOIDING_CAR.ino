@@ -1,10 +1,5 @@
-//ARDUINO OBSTACLE AVOIDING CAR//
-// Before uploading the code you have to install the necessary library//
-//AFMotor Library https://learn.adafruit.com/adafruit-motor-shield/library-install //
-//NewPing Library https://github.com/livetronic/Arduino-NewPing// 
-//Servo Library https://github.com/arduino-libraries/Servo.git //
-// To Install the libraries go to sketch >> Include Library >> Add .ZIP File >> Select the Downloaded ZIP files From the Above links //
-
+//This code was written and uploaded on Arduino IDE.
+//Be sure to Update your Libraries on the Arduino Board before use
 
 #include <AFMotor.h>  
 #include <NewPing.h>
